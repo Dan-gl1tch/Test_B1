@@ -6,4 +6,5 @@ This on clon and this it Test GIT and GitHub.
 
 ![Inside The System - Name](https://cdn.modrinth.com/data/cached_images/e4be83150dc4a8d91474e792218bf1a1dbfcc38f.png)
 
-<video src='https://www.youtube-nocookie.com/embed/z36yCMZo7zE' width=180/>
+
+https://www.youtube-nocookie.com/embed/z36yCMZo7zE
